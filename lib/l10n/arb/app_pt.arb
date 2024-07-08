@@ -1,0 +1,9 @@
+{
+    "@@locale": "pt",
+    "appBarTitle": "YetiMovies",
+    "appBarTitleDicovery": "YM - Discovery",
+    "errorLoadingMovies": "Algo deu errado",
+    "@appBarTitle": {
+        "description": "Texto mostrado na AppBar da página do YetiMovies"
+    }
+}
