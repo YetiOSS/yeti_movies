@@ -194,7 +194,7 @@ The following tools were used in the construction of the project:
 - [BloC](https://pub.dev/packages/bloc): State Management which implement the BLoC pattern.
 - [Mocktail](https://pub.dev/packages/mocktail) : Mock library and suit test methods
 - [Json serializable](https://pub.dev/packages/json_serializable): Provides Dart Build System builders for handling JSON
-- [Equatable](https://pub.dev/packages/equatable): Compare objects in Dart|Overrides hashcode 
+- [Equatable](https://pub.dev/packages/equatable): Compare objects in Dart|Overrides
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
 _\*BLoC pattern helps to build your Flutter app architecture and manage the flow of data through your widgets using Dart streams. So it fits to the goals of the app._
