@@ -199,3 +199,7 @@ The following tools were used in the construction of the project:
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
 _\*BLoC pattern helps to build your Flutter app architecture and manage the flow of data through your widgets using Dart streams. So it fits to the goals of the app._
+
+
+[flutter_localizations_link]: https://api.flutter.dev/flutter/flutter_localizations/flutter_localizations-library.html
+[internationalization_link]: https://flutter.dev/docs/development/accessibility-and-localization/internationalization
